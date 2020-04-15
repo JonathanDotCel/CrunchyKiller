@@ -354,9 +354,9 @@ class CrunchyKiller{
 	
 		Console.ForegroundColor = ConsoleColor.White;
 		Console.Write( " ===================================================\n");
-		Console.Write( "  CrunchyKiller - C# ByteKiller port  V" + version + "\n");
-		Console.Write( " Feb 2020 - github.com/JonathanDotCel               \n" );
-		Console.Write( "\n" );
+		Console.Write( "  CrunchyKiller - C# ByteKiller port  V" + version +"\n");
+		Console.Write( "  Feb 2020 - github.com/JonathanDotCel               \n" );
+		Console.Write( " \n" );
 		Console.Write( "   Thanks to Silpheed, SurfSmurf, LorBlitter,       \n");
 		Console.Write( "   Frank Wille, etc.                                \n" );		
 		Console.Write( " ===================================================\n");
@@ -364,13 +364,13 @@ class CrunchyKiller{
 		if ( justTheTopBit ) return;
 	
 		Console.ForegroundColor = ConsoleColor.Red;
-		Console.Write("\n\n EXAMPLE: \n ");
+		Console.Write("\n\n EXAMPLE: \n");
 		Console.ForegroundColor = ConsoleColor.White;
-		Console.Write( "crunch -c <INFILE> <OUTFILE>\n");
-		Console.Write( "crunch -d <INFILE> <OUTFILE>\n");
-		Console.Write( "crunch -p <INDFILE> <OUTFILE>\n" );
+		Console.Write( " crunch -c <INFILE> <OUTFILE>\n");
+		Console.Write( " crunch -d <INFILE> <OUTFILE>\n");
+		Console.Write( " crunch -p <INDFILE> <OUTFILE>\n" );
 		Console.Write( "\n\n" );
-		Console.Write( "Note: -p mode is for >= UniROM 8's 16 byte mini header format only." );
+		Console.Write( " Note: -p mode is for >= UniROM 8's 16 byte mini header format only.\n" );
 
 	}
 	
