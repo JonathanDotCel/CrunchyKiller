@@ -1,0 +1,8 @@
+﻿  bytekiller.c
+c:\cproj\crunchykiller\c_source_vs2017\bytekiller.c(280): warning C4013: 'CrunchMain' undefined; assuming extern returning int
+c:\cproj\crunchykiller\c_source_vs2017\bytekiller.c(305): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\cproj\crunchykiller\c_source_vs2017\bytekiller.c(333): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\cproj\crunchykiller\c_source_vs2017\bytekiller.c(291): warning C4716: 'altMain': must return a value
+  ByteKiller.vcxproj -> C:\cproj\CrunchyKiller\c_source_vs2017\Debug\ByteKiller.exe
