@@ -5,7 +5,7 @@ C#/ASM PSX Cruncher/Decruncher via Runtime Length Encoding
 (Compatible with Silpheed/Hitmen's ASM ByteKiller decrunch routine.)
 
 Note: this is mostly for Archival's sake and to have a working source 
-in the 64 bit era. as such, its a direct side-by-side translation of
+in the 64 bit era. As such, its a direct side-by-side translation of
 the originals with minimal language-specific features + documentation.
 
 It works very well, but unless you specifically need it to decompress/recompress old PSX/Amiga stuff (Or you kinda fancy using it for nostalgia's sake), it might be worth going with something more modern from https://github.com/PeterLemon or https://github.com/Lameguy64.
